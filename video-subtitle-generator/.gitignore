@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+input/*
+!input/.gitkeep
+output/*
+output_final/*
+logs/*
+*.wav
+*.srt
+*.vtt
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
